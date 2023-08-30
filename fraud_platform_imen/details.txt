@@ -1,0 +1,5 @@
+COMPOSITION : Tretinoin Gel USP
+DOSAGE : 0.1%
+DRUGNAME : A-Ret
+TYPE : Gel
+SIZE : 20g
